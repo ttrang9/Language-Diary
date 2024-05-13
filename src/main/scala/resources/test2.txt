@@ -1,0 +1,5 @@
+das Nashorn: rhino
+das Kaninchen: rabbit
+das Huhn: chicken
+der Wolf: wolf
+der Pinguin: penguin

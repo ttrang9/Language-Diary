@@ -1,0 +1,18 @@
+#Noun
+die Katze: cat
+das Nashorn: rhino
+das Kaninchen: rabbit
+das Huhn: chicken
+der Wolf: wolf
+der Pinguin: penguin
+
+#Verb
+sein: to be
+haben: to have
+werden: to become
+
+#Adj
+klein: small
+alt: old
+neu: new
+

@@ -1,0 +1,20 @@
+Interim Report 1 - 12/03/2024
+
+Add stuffs - 
+
+Interim report 2 - 4/4/2024
+I changed a lot of the UI for EntryInput + did some input managing.
+Now I can view the list of entries in chronological time.
+
+I'm still struggling with the UI for monthly view calendar. I literally just thought
+of another approach yesterday but haven't tried implemented that yet.
+
+Interim report 3 - 23/4/2024
+I have (hopefully) successfully implemented the reading/writing part of the application (Save+Delete).
+Still, I don't know if it's my computer, or sth else, but around 70% of the time
+I exist the app, I have to choose "reload from disk" for the json file to update. I have no idea why.
+
+Things left to do:
+- Easy requirements: Edit entry, Filter/search entry in the table according to some conditions,
+ show events in calendar and in an interval, tests/errors handling (?)
+- Medium: Numerical Data
